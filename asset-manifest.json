@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.658fc8ad.css",
+    "main.js": "/static/js/main.3590639c.js",
+    "static/media/skcetLogo.png": "/static/media/skcetLogo.31d2bf13215ad9e10734.png",
+    "index.html": "/index.html",
+    "main.658fc8ad.css.map": "/static/css/main.658fc8ad.css.map",
+    "main.3590639c.js.map": "/static/js/main.3590639c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.658fc8ad.css",
+    "static/js/main.3590639c.js"
+  ]
+}
